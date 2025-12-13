@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ocean-wave-48-four-grey-blue-waves.gif (1)" style="max-width: 100%; height: auto;" alt="coding header"/>
+  <img src="ocean-wave-48-four-grey-blue-waves (1).gif" style="max-width: 100%; height: auto;" alt="coding header"/>
 </div>
 
 # Hi there 
