@@ -1,10 +1,6 @@
-<table style="width: 100%; margin: 0; padding: 0; border-collapse: collapse; background-color: #dedcd6;">
+
   <tr>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; display: block; margin: 0; padding: 0;" alt="coding header"/>
-    </td>
-  </tr>
-</table>
+    <td style="padding: 30px; margin: 0; border: none; background-color: #dedad6;">
 
 # Hi there 
 
@@ -20,7 +16,6 @@ I'm a Backend Developer passionate about building web applications. Currently wo
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -42,10 +37,5 @@ I'm a Backend Developer passionate about building web applications. Currently wo
 - Email: fartuchoknik1@gmail.com
 - Telegram: @kapusta123b
 
-<table style="width: 100%; margin: 0; padding: 0; border-collapse: collapse; background-color: #dedcd6;">
-  <tr>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="width: 100%; display: block; margin: 0; padding: 0;" alt="coding footer"/>
     </td>
   </tr>
-</table>
