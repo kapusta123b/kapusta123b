@@ -1,13 +1,12 @@
-  
-# Hi 
+<div align="center">
+ 
+# Hi there 👋
 
 I'm a Backend Developer passionate about building web applications. Currently working on Django projects and exploring modern web technologies.
 
----
-
 ## My Stack
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,13 +14,41 @@ I'm a Backend Developer passionate about building web applications. Currently wo
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+</div>
+
 ---
-### GitHub Activity Graph:
+
+## GitHub Activity Graph
+
+<div align="center">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kapusta123b&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+
+</div>
+
+<div align='center'>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kapusta123b&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kapusta123b&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align='center' src="https://github-readme-stats.vercel.app/api?username=kapusta123&show_icons=true" />
+</picture>
+
+<picture>
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapusta123b&layout=compact&theme=dark&hide=javascript"/>
+
+</picture>
+
+</div>
+
 ## What I'm Into
 
 - Building full-stack web applications with Django
@@ -33,7 +60,6 @@ I'm a Backend Developer passionate about building web applications. Currently wo
 
 ## Let's Connect
 
-- Email: fartuchoknik1@gmail.com
-- Telegram: @kapusta123b
-- [![codewars](https://www.codewars.com/users/kapusta123b/badges/small)](https://www.codewars.com/users/username)
-
+- **Email**: fartuchoknik1@gmail.com
+- **Telegram**: @kapusta123b
+- [![codewars](https://www.codewars.com/users/kapusta123b/badges/small)](https://www.codewars.com/users/kapusta123b)
