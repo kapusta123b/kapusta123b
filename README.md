@@ -39,11 +39,11 @@ I'm a Backend Developer passionate about building web applications. Currently wo
     srcset="https://github-readme-stats.vercel.app/api?username=kapusta123b&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align='center' src="https://github-readme-stats.vercel.app/api?username=kapusta123&show_icons=true" />
+  <img height=150 align='center' src="https://github-readme-stats.vercel.app/api?username=kapusta123&show_icons=true" />
 </picture>
 
 <picture>
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapusta123b&layout=compact&theme=dark&hide=javascript"/>
+  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapusta123b&layout=compact&theme=dark&hide=javascript"/>
 
 </picture>
 
