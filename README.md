@@ -60,6 +60,6 @@ I'm a Backend Developer passionate about building web applications. Currently wo
 
 ## Let's Connect
 
-- **Email**: fartuchoknik1@gmail.com
+- **Email**: fartuchoknik22@gmail.com
 - **Telegram**: @kapusta123b
 - [![codewars](https://www.codewars.com/users/kapusta123b/badges/small)](https://www.codewars.com/users/kapusta123b)
