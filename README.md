@@ -55,6 +55,7 @@ I'm a Backend Developer passionate about building web applications. Currently wo
 - Creating responsive and modern UIs
 - Working with databases and backend logic
 - Learning new technologies and best practices
+- Studying Telegram bots
 
 ---
 
