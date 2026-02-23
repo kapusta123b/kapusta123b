@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am a **Backend Developer** passionate about building robust web applications and automated systems. Currently, I'm diving deep into the **Django** ecosystem and crafting high-performance **Telegram bots** using **Aiogram 3**.
+I am a **Backend Developer** passionate about building robust web applications and automated systems. Currently, I'm diving deep into the **Django** ecosystem and crafting **Telegram bots** using **Aiogram 3**.
 
 ---
 
