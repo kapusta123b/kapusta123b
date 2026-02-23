@@ -11,7 +11,7 @@ I am a **Backend Developer** passionate about **Django** and  **Telegram bots** 
 <br>
 
 
-## Ａｃｔｉｖｉｔｉｅｓ
+## Ａｃｔｉｖｉｔｉｅｓ :trollface:
 <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapusta123b&theme=github-compact" width="100%" />
