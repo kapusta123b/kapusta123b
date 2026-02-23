@@ -2,8 +2,8 @@
 <br><br>
 I am a **Backend Developer** passionate about **Django** and  **Telegram bots** with **Aiogram 3**.
 <br><br><br>
-##  Ｔｅｃｈ ｓｔａｃｋ
-<br><br>
+##  Ｔｅｃｈ ｓｔａｃｋ :godmode:
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,docker,html,sass,git,linux" />
   
@@ -12,7 +12,6 @@ I am a **Backend Developer** passionate about **Django** and  **Telegram bots** 
 
 
 ## Ａｃｔｉｖｉｔｉｅｓ :trollface:
-<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapusta123b&theme=github-compact" width="100%" />
 </p>
@@ -20,8 +19,6 @@ I am a **Backend Developer** passionate about **Django** and  **Telegram bots** 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapusta123b&theme=dark&hide_border=true" width="100%" />
 </p>
-
----
 
 ## Ｃｏｎｎｅｃｔ :suspect:
 
