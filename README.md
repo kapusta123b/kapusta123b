@@ -2,28 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Backend%20Developer&fontSize=40&fontAlignY=40" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kapusta123b&label=PROFILE+VIEWS&color=00758f&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
-  <img src="https://img.shields.io/badge/Django-LTS-green?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Status-Exploring-orange?style=for-the-badge" alt="Status">
-</p>
-
 ---
 
 ## 🚀 About Me
 
-I am a **Backend Developer** passionate about building robust web applications and automated systems. Currently, I'm diving deep into the **Django** ecosystem and crafting **Telegram bots** using **Aiogram 3**.
+I am a **Backend Developer** passionate about building robust web applications and automated systems. I'm diving deep into the **Django** ecosystem and crafting **Telegram bots** using **Aiogram 3**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,sqlite,docker,html,css,sass,git,linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,docker,html,sass,git,linux" />
 </p>
 
 ---
