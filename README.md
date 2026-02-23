@@ -1,25 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Backend%20Developer&fontSize=40&fontAlignY=40" width="100%"/>
-</p>
-
----
-
-## 🚀 About Me
-
-I am a **Backend Developer** passionate about building robust web applications and automated systems. I'm diving deep into the **Django** ecosystem and crafting **Telegram bots** using **Aiogram 3**.
-
----
-
-## 🛠️ Tech Stack
-
+#     𝙷𝚎𝚕𝚕𝚘,   𝙸'𝚖 𝙽𝚒𝚔𝚒𝚝𝚊 :feelsgood:
+<br><br>
+I am a **Backend Developer** passionate about **Django** and  **Telegram bots** with **Aiogram 3**.
+<br><br><br>
+##  Ｔｅｃｈ ｓｔａｃｋ
+<br><br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,docker,html,sass,git,linux" />
+  
 </p>
+<br>
 
----
 
-## 📊 GitHub Activities
-
+## Ａｃｔｉｖｉｔｉｅｓ
+<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapusta123b&theme=github-compact" width="100%" />
 </p>
@@ -30,7 +23,7 @@ I am a **Backend Developer** passionate about building robust web applications a
 
 ---
 
-## 🤝 Let's Connect
+## Ｃｏｎｎｅｃｔ :suspect:
 
 <p align="center">
   <a href="https://t.me/kapusta123b">
@@ -39,17 +32,4 @@ I am a **Backend Developer** passionate about building robust web applications a
   <a href="mailto:fartuchoknik22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/kapusta123b">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <sub>Built with ❤️ and a lot of ☕</sub>
 </p>
