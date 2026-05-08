@@ -30,3 +30,5 @@ I am a **Backend Developer** passionate about **Django** and  **Telegram bots** 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+<img width="1602" height="867" alt="image" src="https://github.com/user-attachments/assets/98d1b61f-3069-43ca-b075-3b3bda7578f3" />
