@@ -1,6 +1,6 @@
 #     𝙷𝚎𝚕𝚕𝚘,   𝙸'𝚖 𝙽𝚒𝚔𝚒𝚝𝚊 :feelsgood:
 <br><br>
-I am a **Backend Developer** passionate about **Django** and  **Telegram bots** with **Aiogram 3**.
+I am a **Backend Developer** passionate about **Django** and  **Aiogram 3**.
 <br><br><br>
 ##  Ｔｅｃｈ ｓｔａｃｋ :godmode:
 <br>
