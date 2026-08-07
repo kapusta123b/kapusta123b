@@ -5,7 +5,7 @@ I am a **Backend Developer** passionate about **Django** and  **Aiogram 3**.
 ##  Ｔｅｃｈ ｓｔａｃｋ :godmode:
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,docker,html,scss,git,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=py,django,bots,postgres,docker,html,scss,git,linux,nginx,postman" />
 </p>
 <br>
 
