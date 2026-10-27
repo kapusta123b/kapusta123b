@@ -58,4 +58,3 @@ Currently exploring distributed systems, infrastructure monitoring, and desktop 
 [![Spotify recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=31b57x4opw6dbu2ev3woma2tbhou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-<img src="https://github.com/user-attachments/assets/98d1b61f-3069-43ca-b075-3b3bda7578f3" alt="Workspace image" width="100%" />
